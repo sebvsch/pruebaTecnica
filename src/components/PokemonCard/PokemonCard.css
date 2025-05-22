@@ -1,0 +1,9 @@
+.pokemon-card {
+    transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+    background-color: #f8f9fa;
+}
+
+.pokemon-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04);
+}
