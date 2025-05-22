@@ -68,7 +68,6 @@ const Login = () => {
                     zIndex: 1,
                 }}
             ></div>
-
             <div
                 className="rounded-4 shadow-lg p-5"
                 style={{
